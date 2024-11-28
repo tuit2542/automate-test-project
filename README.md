@@ -24,7 +24,9 @@ robot-automation-project/
 └── README.md                     # Project documentation
 
 ```
-#### run this for test
+### Follow INSTALLATION.md file instruction
+##### then
+### run this for test
 ```bash
 robot --outputdir reports tests/yourpath/
 
