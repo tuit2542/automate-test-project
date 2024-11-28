@@ -1,0 +1,27 @@
+# Reports and logs (auto-generated)
+reports/
+logs/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Robot Framework temporary files
+*.robot~
+*.txt~
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Environment variables or secrets
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+venv/
